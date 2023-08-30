@@ -1,10 +1,11 @@
-# SIT-AIO-Installer
+# SIT-AIO-Installer 3.6.1
  
-A Tool for automatic install SIT Launcher, SIT Server and creating a copy of your current Live EFT Version to simplify the install process.
+A Tool for automatic install SIT Launcher, SIT Server and creating a copy of your current Live EFT Version to simplify the install process. 
 
 # Screenshot
 
-![image](https://github.com/T4s3rF4c3/SIT-AIO-Installer/assets/49696820/d85d9ded-298e-41c1-8e01-e1e2318e6bf8)
+![image](https://github.com/T4s3rF4c3/SIT-AIO-Installer-3.6.1/assets/49696820/55d9a5d8-9f38-45d2-b73e-5e27fc04694d)
+
 
 # Usage
 
