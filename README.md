@@ -12,7 +12,7 @@ A Tool for automatic install SIT Launcher, SIT Server and creating a copy of you
 1. Select your Live EFT Folder (EscapeFromTarkov.exe needs to be located in here)
 2. Select you Destination Install Folder (This Folder needs to be empty)
 3. Chose "INSTALL - CLIENT ONLY" this will not download and install any Server files. If you want to install the Server click on "INSTALL - SERVER ONLY".
-4. The Tool will start to install all needed files. (If the programm freeze, dont close it, just let it run)
+4. The Tool will start to install all needed files. (If the programm freeze, dont close it, just let it run) **INSTALL TIME 5 - 20 Minutes**
 5. After finishing the install process you will see 3 folders (SIT-EFT-Install, SIT-Launcher, SIT-Server) in your destination folder.
    
    ![image](https://github.com/T4s3rF4c3/SIT-AIO-Installer/assets/49696820/33ea7595-69fe-47bb-9c05-e8296a207618)
