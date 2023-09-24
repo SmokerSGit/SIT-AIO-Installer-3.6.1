@@ -9,6 +9,8 @@ A Tool for automatic install SIT Launcher, SIT Server and creating a copy of you
 
 # Usage
 
+Tutorial - Thanks to Legit_Delirum - https://www.youtube.com/watch?v=YTUdJlAMdzk
+
 1. Select your Live EFT Folder (EscapeFromTarkov.exe needs to be located in here)
 2. Select you Destination Install Folder (This Folder needs to be empty)
 3. Chose "INSTALL - CLIENT ONLY" this will not download and install any Server files. If you want to install the Server click on "INSTALL - SERVER ONLY".
